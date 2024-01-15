@@ -8,8 +8,8 @@ import eng_to_ipa as p
 nlp = spacy.load("en_core_web_md")
 
 
-BAIDU_API_KEY = 'IPuxQP4OcLWw3EYQlXEr'  # Replace with your actual Baidu API key
-BAIDU_APP_ID = '20200603000485162'  # Replace with your actual Baidu app ID
+BAIDU_API_KEY = 'Baidu API key'  # Replace with your actual Baidu API key
+BAIDU_APP_ID = 'Baidu app ID'  # Replace with your actual Baidu app ID
 
 
 '''fword = open(input('请输入单词txt文件路径：'), 'r')
